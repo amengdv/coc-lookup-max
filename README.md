@@ -16,7 +16,9 @@ Optional
 
 ## Setup
 
-Clone this repo and just run
+1. Clone this repo 
+2. `cd` into directory
+3. run command below
 
 ```
 python3 src/main {th} {category}
