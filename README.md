@@ -32,7 +32,8 @@ run this command in order to see available category:
 python3 src/main --help
 ```
 
-[^1]: This program also support symlink if you want to set that up
+> [!NOTE] 
+> This program also support symlink if you want to set that up
 
 
 
