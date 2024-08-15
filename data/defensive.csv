@@ -1,0 +1,21 @@
+TOWNHALL,7,8,9,10,11,12,13,14,15,16
+Walls,7,8,10,11,12,13,14,15,16,17
+Builders Hut,1,1,1,1,1,1,1,4,5,6
+Cannons,8,10,11,13,15,17,19,20,21,x
+Archers,8,10,11,13,15,17,19,20,21,x
+Mortars,5,6,7,8,10,12,13,14,15,16
+Air Defenses,5,6,7,8,9,10,11,12,13,14
+Wizard Towers,4,6,7,9,10,11,13,14,15,16
+Air Sweeper,3,4,5,6,7,x,x,x,x,x
+Hidden Teslas,3,6,7,8,9,10,12,13,14,15
+Bomb Tower,x,2,3,4,6,7,8,9,10,11
+X-Bow,x,x,3,4,5,6,8,9,10,11
+Inferno Tower,x,x,x,3,5,6,7,8,9,10
+Eagle Artillery,x,x,x,x,2,3,4,5,6,x
+TH Giga Tesla,x,x,x,x,x,5,x,x,x,x
+Scattershot,x,x,x,x,x,x,2,3,4,5
+TH Inferno Tower,x,x,x,x,x,x,5*,5*,5*,1
+Monolith,x,x,x,x,x,x,x,x,2,x
+Spell Tower,x,x,x,x,x,x,x,x,3,x
+Multi-Archer Tower,x,x,x,x,x,x,x,x,x,2
+Ricochet Cannon,x,x,x,x,x,x,x,x,x,2
