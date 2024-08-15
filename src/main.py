@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import argparse
 
 from csvhandler import get_col_at, get_csv_content
