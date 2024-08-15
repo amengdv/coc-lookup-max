@@ -1,0 +1,15 @@
+TOWNHALL,7,8,9,10,11,12,13,14,15,16
+Lightning,4,5,6,7,8,9,9,9,10,11
+Healing,4,5,6,7,7,7,8,8,9,10
+Rage,4,5,5,5,5,6,x,x,x,x
+Poison,x,2,3,4,5,6,7,8,9,10
+Earthquake,x,2,3,4,5,x,x,x,x,x
+Jump,x,x,2,3,3,3,4,4,5,x
+Freeze,x,x,2,5,6,7,x,x,x,x
+Haste,x,x,2,4,5,x,x,x,x,x
+Clone,x,x,x,3,5,5,6,7,8,x
+Skeleton,x,x,x,3,4,6,7,7,8,x
+Bat,x,x,x,3,4,5,5,5,6,x
+Invisibility,x,x,x,x,2,3,4,x,x,x
+Overgrowth ,x,x,x,x,x,2,2,3,3,4
+Recall,x,x,x,x,x,x,2,3,4,5

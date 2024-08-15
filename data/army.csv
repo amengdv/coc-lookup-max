@@ -1,0 +1,29 @@
+TOWNHALL,7,8,9,10,11,12,13,14,15,16
+Barbarian,4,5,6,7,8,9,9,10,11,12
+Archer,4,5,6,7,8,9,9,10,11,12
+Giant,4,5,6,7,8,9,10,10,11,12
+Goblin,4,5,6,7,7,8,8,8,9,x
+Wall Breaker,4,5,5,6,7,8,9,10,11,12
+Balloon,4,5,6,6,7,8,9,10,10,11
+Wizard,4,5,6,7,8,9,10,10,11,12
+Healer,2,3,4,4,5,5,6,7,8,9
+Dragon,2,3,4,5,6,7,8,9,10,11
+Minion,2,4,5,6,7,8,9,10,11,12
+Hog Rider,2,4,5,6,7,9,10,10,12,13
+P.E.K.K.A,x,3,4,5,7,8,9,9,10,11
+Valkyrie,x,2,4,5,6,7,8,9,10,11
+Golem,x,2,4,5,7,9,10,11,12,13
+Baby Dragon,x,x,2,4,5,6,7,8,9,10
+Witch,x,x,2,3,4,5,5,5,6,7
+Lava Hound,x,x,2,3,4,5,6,x,x,x
+Miner,x,x,x,3,5,6,7,8,9,10
+Bowler,x,x,x,2,3,4,5,6,7,8
+Electrodragon,x,x,x,x,2,3,4,5,6,7
+Ice Golem,x,x,x,x,3,5,5,6,7,x
+Yeti,x,x,x,x,x,2,3,4,6,x
+Headhunter,x,x,x,x,x,2,3,x,x,x
+Dragon Rider,x,x,x,x,x,x,2,3,3,4
+Apprentice Warden,x,x,x,x,x,x,2,3,4,x
+Druid,х,х,х,х,х,х,х,2,3,4
+Electro Titan,x,x,x,x,x,x,x,2,3,x
+Root Rider,x,x,x,x,x,x,x,x,2,3
