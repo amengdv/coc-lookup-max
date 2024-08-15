@@ -26,10 +26,13 @@ python3 src/main {th} {category}
 
 replace th with your townhall level and category
 
-run
+run this command in order to see available category:
+
 ```
 python3 src/main --help
 ```
-in order to see available category
+
+[^1]: This program also support symlink if you want to set that up
+
 
 

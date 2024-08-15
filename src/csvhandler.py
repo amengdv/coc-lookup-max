@@ -22,8 +22,11 @@ def get_col_at(th, csv):
 
 
 def get_csv_content(category):
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    data_dir = os.path.join(base_dir, "..", "data")
+
     category += ".csv"
-    with open(os.path.join("data", category)) as csv:
+    with open(os.path.join(data_dir, category)) as csv:
         return csv.read()
 
 
